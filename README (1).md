@@ -104,5 +104,5 @@ The app uses the following input features:
 
 ## 👨‍💻 Author
 
-Developed by **Rajayogeswaran**  
+Developed by **Rajayogeswaran,Vishnu,Velan,Vetri**  
 For academic, demo, and portfolio use
